@@ -1,0 +1,363 @@
+[24-Sep-2016 15:28:30 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:28:36 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:28:40 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:28:48 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:28:53 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:28:53 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:29:08 UTC] PHP Notice:  Undefined index: lat in /home/gabrielbaki/public_html/get_location.php on line 5
+[24-Sep-2016 15:29:08 UTC] PHP Notice:  Undefined index: long in /home/gabrielbaki/public_html/get_location.php on line 6
+[24-Sep-2016 15:29:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 10
+[24-Sep-2016 15:29:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 13
+[24-Sep-2016 15:29:11 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:29:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 10
+[24-Sep-2016 15:29:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 13
+[24-Sep-2016 15:29:14 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:29:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 10
+[24-Sep-2016 15:29:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 13
+[24-Sep-2016 15:29:15 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:30:39 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:30:51 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:30:51 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:31:48 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:31:48 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:32:57 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:32:59 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:33:07 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:33:07 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:33:11 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:33:11 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:39:08 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:39:08 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:42:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gabrielbaki/public_html/connect.php on line 3
+[24-Sep-2016 15:42:53 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/gabrielbaki/public_html/connect.php on line 4
+[24-Sep-2016 15:42:53 UTC] PHP Notice:  Trying to get property of non-object in /home/gabrielbaki/public_html/connect.php on line 7
+[24-Sep-2016 15:42:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gabrielbaki/public_html/connect.php on line 3
+[24-Sep-2016 15:42:55 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/gabrielbaki/public_html/connect.php on line 4
+[24-Sep-2016 15:42:55 UTC] PHP Notice:  Trying to get property of non-object in /home/gabrielbaki/public_html/connect.php on line 7
+[24-Sep-2016 15:43:06 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:43:12 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:43:12 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:43:15 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:43:15 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:43:17 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:43:17 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:43:19 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:43:19 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:44:22 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:44:22 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:44:40 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:44:40 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:50:21 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:50:21 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 15:50:29 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 15:50:30 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:00:30 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:00:35 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:00:35 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:10:14 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:10:14 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:15:49 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:16:42 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:16:52 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:17:00 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:17:00 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:17:35 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gabrielbaki/public_html/home0.php on line 87
+[24-Sep-2016 16:17:38 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gabrielbaki/public_html/home0.php on line 87
+[24-Sep-2016 16:18:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:18:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:18:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:18:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:18:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:18:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:18:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:18:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:19:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:19:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:19:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:19:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:19:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:19:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:20:28 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gabrielbaki/public_html/home0.php on line 87
+[24-Sep-2016 16:20:30 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gabrielbaki/public_html/home0.php on line 87
+[24-Sep-2016 16:20:30 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gabrielbaki/public_html/home0.php on line 87
+[24-Sep-2016 16:20:30 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gabrielbaki/public_html/home0.php on line 87
+[24-Sep-2016 16:20:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:21:23 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:21:23 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:21:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:21:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:21:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:21:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:21:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:22:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:22:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:22:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:22:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:22:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:22:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:22:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:22:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:22:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:22:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:23:16 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:23:16 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:24:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:24:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:26:02 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:26:04 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:26:04 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:26:04 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:26:05 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:27:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:27:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:27:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:27:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:27:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gabrielbaki/public_html/home.php on line 39
+[24-Sep-2016 16:28:02 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:03 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:12 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:28:12 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:28:24 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:25 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:25 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:31 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:31 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:32 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:32 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:34 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:34 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:35 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:28:35 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:28:35 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:35 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:38 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:28:44 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:28:44 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:29:10 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:29:10 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:29:19 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:29:19 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:29:25 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:29:25 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:29:36 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:29:37 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:29:43 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:29:43 UTC] PHP Notice:  Undefined index: password in /home/gabrielbaki/public_html/login.php on line 7
+[24-Sep-2016 16:30:38 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:30:41 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:30:42 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:30:42 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:30:42 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:30:42 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:30:42 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:31:30 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:31:30 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:31:40 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:31:41 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:31:42 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:37:24 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:37:28 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:37:32 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:38:43 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:39:02 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:57:00 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:57:03 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:57:28 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:57:54 UTC] PHP Parse error:  syntax error, unexpected 'long' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gabrielbaki/public_html/home.php on line 14
+[24-Sep-2016 16:58:18 UTC] PHP Notice:  Undefined variable: sqlRow in /home/gabrielbaki/public_html/home.php on line 27
+[24-Sep-2016 16:58:18 UTC] PHP Notice:  Undefined variable: sqlConnect in /home/gabrielbaki/public_html/home.php on line 44
+[24-Sep-2016 16:58:18 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/gabrielbaki/public_html/home.php on line 44
+[24-Sep-2016 17:02:47 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gabrielbaki/public_html/home.php on line 38
+[24-Sep-2016 17:03:19 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gabrielbaki/public_html/home.php on line 38
+[24-Sep-2016 17:05:43 UTC] PHP Fatal error:  Call to undefined function newUnreadChat() in /home/gabrielbaki/public_html/home.php on line 20
+[24-Sep-2016 17:22:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 10
+[24-Sep-2016 17:22:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 13
+[24-Sep-2016 18:22:15 UTC] PHP Notice:  Undefined index: lat in /home/gabrielbaki/public_html/get_location.php on line 5
+[24-Sep-2016 18:22:15 UTC] PHP Notice:  Undefined index: long in /home/gabrielbaki/public_html/get_location.php on line 6
+[24-Sep-2016 18:22:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 10
+[24-Sep-2016 18:22:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 13
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 82
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 82
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 82
+[24-Sep-2016 23:12:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:33:11 UTC] PHP Notice:  Undefined index: lat in /home/gabrielbaki/public_html/get_location.php on line 5
+[24-Sep-2016 23:33:11 UTC] PHP Notice:  Undefined index: long in /home/gabrielbaki/public_html/get_location.php on line 6
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 10
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 13
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 82
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 82
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:33:15 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 82
+[24-Sep-2016 23:33:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:34:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 10
+[24-Sep-2016 23:34:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 13
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 82
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 82
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 80
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 82
+[24-Sep-2016 23:34:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 78
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 86
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 90
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 86
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 90
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 86
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 90
+[24-Sep-2016 23:45:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 86
+[24-Sep-2016 23:49:20 UTC] PHP Notice:  Undefined index: lat in /home/gabrielbaki/public_html/get_location.php on line 5
+[24-Sep-2016 23:49:20 UTC] PHP Notice:  Undefined index: long in /home/gabrielbaki/public_html/get_location.php on line 6
+[24-Sep-2016 23:49:30 UTC] PHP Notice:  Undefined index: lat in /home/gabrielbaki/public_html/get_location.php on line 5
+[24-Sep-2016 23:49:30 UTC] PHP Notice:  Undefined index: long in /home/gabrielbaki/public_html/get_location.php on line 6
+[24-Sep-2016 23:49:47 UTC] PHP Notice:  Undefined index: lat in /home/gabrielbaki/public_html/get_location.php on line 5
+[24-Sep-2016 23:49:47 UTC] PHP Notice:  Undefined index: long in /home/gabrielbaki/public_html/get_location.php on line 6
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 10
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/get_location.php on line 13
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 86
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 90
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 86
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 90
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 86
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 88
+[24-Sep-2016 23:49:53 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 90
+[24-Sep-2016 23:49:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 86
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 49
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 92
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 92
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:27 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 92
+[25-Sep-2016 00:18:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 49
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 92
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 92
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 00:18:55 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 92
+[25-Sep-2016 00:18:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 49
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 92
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 92
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 90
+[25-Sep-2016 01:01:40 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 92
+[25-Sep-2016 01:01:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/gabrielbaki/public_html/home.php on line 88
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 91
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 91
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 91
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 93
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 91
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 91
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 91
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 93
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 91
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 91
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: category in /home/gabrielbaki/public_html/home.php on line 91
+[25-Sep-2016 01:03:13 UTC] PHP Notice:  Undefined index: search in /home/gabrielbaki/public_html/home.php on line 93
+[25-Sep-2016 03:28:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gabrielbaki/public_html/functions.php on line 95
+[25-Sep-2016 18:07:48 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[25-Sep-2016 23:42:27 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[26-Sep-2016 00:12:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gabrielbaki/public_html/functions.php on line 95
+[26-Sep-2016 23:18:23 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[27-Sep-2016 02:49:16 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[27-Sep-2016 03:58:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gabrielbaki/public_html/functions.php on line 95
+[27-Sep-2016 04:11:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gabrielbaki/public_html/functions.php on line 95
+[27-Sep-2016 08:53:28 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[02-Oct-2016 20:14:28 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[02-Oct-2016 20:15:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gabrielbaki/public_html/functions.php on line 95
+[02-Oct-2016 20:15:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gabrielbaki/public_html/functions.php on line 95
+[02-Oct-2016 20:15:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gabrielbaki/public_html/functions.php on line 95
+[03-Oct-2016 02:26:19 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[03-Oct-2016 03:34:06 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[03-Oct-2016 08:03:40 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[03-Oct-2016 08:03:40 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[03-Oct-2016 08:03:40 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[05-Oct-2016 15:56:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gabrielbaki/public_html/functions.php on line 95
+[07-Oct-2016 05:11:07 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
+[08-Oct-2016 05:32:16 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/gabrielbaki/public_html/post_update.php on line 8
+[08-Oct-2016 05:32:16 UTC] PHP Notice:  Undefined index: full_name in /home/gabrielbaki/public_html/post_update.php on line 17
+[08-Oct-2016 05:32:16 UTC] PHP Notice:  Undefined index: email in /home/gabrielbaki/public_html/post_update.php on line 18
+[08-Oct-2016 05:32:16 UTC] PHP Notice:  Undefined index: phone in /home/gabrielbaki/public_html/post_update.php on line 19
+[08-Oct-2016 05:32:16 UTC] PHP Notice:  Undefined index: about_me in /home/gabrielbaki/public_html/post_update.php on line 20
+[08-Oct-2016 05:38:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gabrielbaki/public_html/functions.php on line 95
+[08-Oct-2016 05:39:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gabrielbaki/public_html/functions.php on line 95
+[08-Oct-2016 09:39:57 UTC] PHP Notice:  Undefined index: username in /home/gabrielbaki/public_html/check_session.php on line 4
