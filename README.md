@@ -10,4 +10,10 @@ Features:
 - Sort items based on close geographic proximity
 - Chat between users (buggy)
 
-# AWS Cloud Resources
+# AWS 
+
+S3 Bucket: Created a private S3 bucket to host static front end code and store files.
+
+Cloudfront: Configured origin access identity so that cloudfront could access code and other files from the S3 bucket created.  Here is the distribution domain for testing purposes https://djqcchjm8l4oz.cloudfront.net/
+
+Lambda: 
